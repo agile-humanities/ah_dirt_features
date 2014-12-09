@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the agile_dirt feature.
+ */
+
+include_once 'agile_dirt.features.inc';
